@@ -8,4 +8,4 @@ OCaml toplevel running in the browser
 - Graphics library supported
 - Open/Save .ml file
 
-![alt text](https://raw.githubusercontent.com/asxic/OCaml-toplevel/branch/master/ocaml-screenshoot.png)
+![alt text](https://github.com/asxic/OCaml-toplevel/blob/master/ocaml-screenshoot.png)
